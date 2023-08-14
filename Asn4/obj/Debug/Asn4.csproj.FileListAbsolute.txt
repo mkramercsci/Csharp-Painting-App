@@ -1,0 +1,9 @@
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\bin\Debug\Asn4.exe.config
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\bin\Debug\Asn4.exe
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\bin\Debug\Asn4.pdb
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\obj\Debug\Asn4.csprojResolveAssemblyReference.cache
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\obj\Debug\Asn4.Form1.resources
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\obj\Debug\Asn4.Properties.Resources.resources
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\obj\Debug\Asn4.csproj.GenerateResource.Cache
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\obj\Debug\Asn4.exe
+E:\Documents\Programming Projects\2020\VS .NET\Asn4\Asn4\obj\Debug\Asn4.pdb
